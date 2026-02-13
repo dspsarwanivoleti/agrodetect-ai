@@ -1,0 +1,7 @@
+{
+  "name": "AgroDetect AI",
+  "description": "A high-performance plant disease classification engine using AI to identify crop diseases and provide corrective agricultural advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
